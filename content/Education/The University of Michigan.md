@@ -4,7 +4,7 @@ title: The University of Michigan
 draft: false
 ---
 
-### Master of Health Informatics
+## Master of Health Informatics
 **Fall 2025 - Spring 2027 (Anticipated)**
 
 I found a degree program to combine my interests of medical sociology with data/information science. Though I attended school in Ohio, Michigan has always been my home. 
