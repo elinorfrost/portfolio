@@ -4,7 +4,7 @@ draft:
 tags:
 ---
 
-I graduated from Oberlin College in may of 2025 with my Bachelor of Arts in Computer Science and Sociology, with a concentration in Data Science.  
+I graduated from Oberlin College in May of 2025 with my Bachelor of Arts in Computer Science and Sociology, with a concentration in Data Science.  
 
 ### Bachelor of Arts in Computer Science
 **Fall 2021 - Spring 2025**
