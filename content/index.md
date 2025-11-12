@@ -21,13 +21,13 @@ I received my Bachelor of Arts in Computer Science and Sociology from Oberlin Co
 - [[Survey Chatbots]] - Research Assistant
 
 ---
-### Education
+## Education
 
-#### [The University of Michigan], Ann Arbor
+#### [[The University of Michigan]], Ann Arbor
 *Master of Health Informatics*, September 2025 - May 2027
 - Joint Degree through the School of Information & the School of Public Health
 
-#### [Oberlin College]
+#### [[Oberlin College]]
 *Bachelor of Arts in Computer Science, Bachelor of Arts in Sociology*, September 2021 - May 2025
 - Integrative Concentration in Data Science
 - Minor in Gender, Sexuality, and Feminist Studies
