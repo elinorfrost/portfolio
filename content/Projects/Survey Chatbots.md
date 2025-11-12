@@ -23,13 +23,10 @@ Our initial experiments found that forgoing the word “survey” in the prompt 
 #### Data Visualization with R
 
 During my research experience, I collected the responses from ChatGPT after prompts for various survey questions. This data reflected how prompt engineering for a large language model can produce responses of varying relevance and quality. Following data collection, my main task was to develop an interactive visualization platform of our results, which I did using `R`.
-
 #### Literature Review
 
 My second large task was to assist in the literature review process. I wrote a preliminary `Python` script to use the Semantic Scholar `API`, which compiled papers based on specific search terms related to the project. These were then formatted into BibTex to generate bibliographies.
-
 #### Presentation at a Research Symposium
-![cache?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJOMGpDUnJuUjBhOFkzZVRUVTNPdy5qcGciLCJleHAiOjE3NjI5MTU2NzcsImNsaWVudCI6ImNhbXB1cyIsImlhdCI6MTc2MjMxMDg3N30.e-MpQF2ZN2erw-HsWDgn0Hfk__K6vzT7vVPV-LDZhAI](https://oberlin.digication.com/srvs/filemanager/campus/N0jCRrnR0a8Y3eTTU3Ow.jpg/resize=width:994,height:728/compress/cache?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJOMGpDUnJuUjBhOFkzZVRUVTNPdy5qcGciLCJleHAiOjE3NjI5MTU2NzcsImNsaWVudCI6ImNhbXB1cyIsImlhdCI6MTc2MjMxMDg3N30.e-MpQF2ZN2erw-HsWDgn0Hfk__K6vzT7vVPV-LDZhAI)
 
 I presented an overview of the project and my contributions in the Oberlin Summer Research Institute Symposium. This allowed me to practice communicating technical information to an interdisciplinary audience. I also learned how to create professional presentation slides using the `Beamer` document class in `LaTeX`. 
 

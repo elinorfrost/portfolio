@@ -30,4 +30,5 @@ title: Skills
 >
 > **Education:**
 > SQL and Databases
-> 
+>
+
