@@ -20,4 +20,4 @@ As a research assistant, I perform various qualitative and quantitative tasks to
 
 - Interview transcription and coding
 - Community resource content creation 
-- survey data visualization and analysis 
+- Survey data visualization and analysis 
