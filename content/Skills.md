@@ -7,7 +7,6 @@ title: Skills
 
 #### Python
 > **Projects:** 
-> - [[Breast Cancer Support]]
 > - [[Survey Chatbots]]
 > 
 > **Education:**
