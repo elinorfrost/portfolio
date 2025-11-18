@@ -21,3 +21,4 @@ I found a degree program to combine my interests of medical sociology with data/
 	- Haven taken statistics before, I utilized this class as an opportunity to build upon my understanding of data modeling and visualization with R
 - Introduction to Programming
 	- This class went deeper into web interaction, information representation, and APIs than I had with my undergraduate major in Computer Science
+

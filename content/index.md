@@ -16,7 +16,7 @@ I received my Bachelor of Arts in Computer Science and Sociology from Oberlin Co
 ## Projects
 #### Current
 - [[Health Justice Informatics Lab]] - Research Assistant
-- [[Breast Cancer Support]] - Individual Project
+
 #### Past
 - [[Survey Chatbots]] - Research Assistant
 
