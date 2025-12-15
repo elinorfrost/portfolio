@@ -1,0 +1,2 @@
+
+![[StrokeClassificationCNN.pdf]]
